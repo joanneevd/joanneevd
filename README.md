@@ -9,7 +9,7 @@ Vist my *[Instagram](https://www.instagram.com/joannevd/) - [LinkedIn](https://w
 ---
 
 - 🔭 I’m currently studying at *Diponegoro University*
-- 🌱 I’m currently learning *Front-end developing*
+- 🌱 I’m currently learning *Web developing*
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about *Web Development*
 - 📫 How to reach me:
