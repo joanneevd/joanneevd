@@ -15,7 +15,8 @@ Vist my *[Instagram](https://www.instagram.com/joannevd/) - [LinkedIn](https://w
 - 📫 How to reach me:
   *[LinkedIn](https://www.linkedin.com/in/joanne-eva-donna-6b3452207/), [Instagram](https://www.instagram.com/joanneevd/)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanneevd&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=joanneevd&show_icons=true&theme=vision-friendly-dark)
+
 
 ![Joanne's github stats](https://github-readme-stats.vercel.app/api?username=joanneevd&show_icons=true&hide_border=true&theme=dark)
 
